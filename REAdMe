@@ -1,0 +1,17 @@
+
+
+be use to use anaconda prompt 
+- jupyter lab
+if it still not working use brute force
+- anaconda-navigator
+
+
+python -m venv nameOfVirtualEnv
+- .\envName\Scripts\activate
+- deactivate 
+
+pip install ipykernel => link vene to jupyter
+
+python -m ipykernel install --name=
+jupyter kernelspec list
+jupyter kernelspec uninstall

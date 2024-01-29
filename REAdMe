@@ -13,6 +13,6 @@ python -m venv nameOfVirtualEnv
 
 pip install ipykernel => link vene to jupyter
 
-python -m ipykernel install --name=
+python -m ipykernel install --name=envName
 jupyter kernelspec list
 jupyter kernelspec uninstall
